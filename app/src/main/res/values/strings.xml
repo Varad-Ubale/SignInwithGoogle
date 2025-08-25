@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VaradsLoginApp</string>
+    <string name="default_web_client_id">\"oauth_client\": [\n        {\n          \"client_id\": \"219413342956-q7rpvjsaebk813vcfdl9h2iriak92n0q.apps.googleusercontent.com\",\n          \"client_type\": 1,\n          \"android_info\": {\n            \"package_name\": \"com.vktech.varadsloginapp\",\n            \"certificate_hash\": \"c881d640dd863f103df6477fc7da3d6f37928a13\"\n          }\n        },</string>
+</resources>
